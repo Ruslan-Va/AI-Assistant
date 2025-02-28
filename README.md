@@ -6,7 +6,8 @@ https://t.me/Ruslans_assistant_bot
 Проект "Личный ИИ-ассистент" представляет собой интеллектуальную систему, предназначенную для автоматизации и упрощения повседневных задач пользователя. Ассистент способен вести осмысленные диалоги, отвечать на вопросы, основываясь на заранее подготовленной базе знаний, а также помогать с организацией встреч и управлением расписанием через интеграцию с Google Календарем.
 
 [Frame12.jpg](https://github.com/Ruslan-Va/AI-Assistant/blob/main/Frame12.jpg?raw=true)
-https://github.com/Ruslan-Va/AI-Assistant/blob/main/Frame48.jpg?raw=true
+[Frame48.jpg](https://github.com/Ruslan-Va/AI-Assistant/blob/main/Frame48.jpg?raw=true)
+
 ---
 
 ## Функционал
